@@ -1,0 +1,40 @@
+\input{setup/packages}
+\mdfdefinestyle{MyFrame}{%
+	linecolor=black,
+	outerlinewidth=2pt,
+	%roundcorner=20pt,
+	innertopmargin=4pt,
+	innerbottommargin=4pt,
+	innerrightmargin=4pt,
+	innerleftmargin=4pt,
+	leftmargin = 4pt,
+	rightmargin = 4pt
+	%backgroundcolor=gray!50!white}
+}
+\begin{document}
+% fill in this document
+\input{ass-info}
+
+    \input{setup/titlepage}
+    \toc
+    
+\begin{mdframed}[style=MyFrame,nobreak=true,align=center,userdefinedwidth=40em,backgroundcolor=blue!20]
+	\textbf{PLEASE PAY ATTENTION:}
+	\begin{enumerate}
+		\item \textbf{All assignments must be completed in this specific \LaTeX template}. Submitting your assignment in any other format or template, will not be graded.
+		\item \textbf{This is an individual assignment.} It is okay to discuss your ideas with others, but \textbf{your work should be created independently and manually.} Any copying, whether online or offline, is strictly prohibited. All submissions will be checked for integrity and originality using a variety of plagiarism detection tools, and I reserve the right to assign a -100 grade for any violations of policy.
+		\item I understand that life can be unpredictable, but please plan to do your work in the nick of time!
+		To give you extra motivation, \textbf{you'll receive a 25\% bonus point if you submit your assignment before the new year!} So aim to turn it in early!
+		\item Questions 1 to 4 require you to provide detailed answers and justifications with your sense of creativity. Please make sure to \textbf{support your opinions with appropriate evidence and explanations.}
+		\item In questions 5 to 7, you need to utilize the \textbf{Python programming language} with the numpy, pandas, and sklearn libraries to answer the questions. It is recommended that you use the Jupyter notebook environment for writing your code. Each question has several sub-questions, for which you need to \textbf{provide a brief explanation (if required), a mandatory screenshot of your results, and of course, your code snippets for that particular part of the question}. Each of these components will determine your score for that section.
+		\item \textcolor{red}{You have to upload all of your works to the Quera platform, so join the \href{https://quera.org/course/add_to_course/course/13725/}{class's Quera webpage} ASAP (the password is the name of our telegram group!)	To receive a grade, upload your completed assignment as a single PDF to the PDF section on Quera, convert the "assignment1.tex" file to a .txt file and upload it to the theoretical section, save your practical question codes in a single .py file and upload it to the practical section, and \textbf{ensure that you've uploaded all three files correctly in their appropriate location.}}
+		\item Just a quick reminder to please follow these policies, as they're here to help make sure everyone is treated fairly and respectfully. \textbf{Thanks for your dedication!}
+	\end{enumerate}
+\centering\textbf{<<Feel free to contact me in case of any question. Good luck with your assignment!>>}
+    \end{mdframed}
+        \input{assignment1}
+    
+    % uncomment next line if using references
+    %\printbibliography
+
+\end{document}

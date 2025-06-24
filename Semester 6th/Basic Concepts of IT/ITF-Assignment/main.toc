@@ -1,0 +1,9 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{Question 1 \normalsize (10 pts)}{3}{section*.3}%
+\contentsline {section}{Question 2 \normalsize (50 pts)}{5}{section*.4}%
+\contentsline {section}{Question 3 \normalsize (25 pts)}{7}{section*.5}%
+\contentsline {section}{Question 4 \normalsize (15 pts)}{9}{section*.6}%
+\contentsline {section}{Question 5 \normalsize (20 pts)}{11}{section*.7}%
+\contentsline {section}{Question 6 \normalsize (50 pts)}{13}{section*.8}%
+\contentsline {section}{Question 7 \normalsize (30 pts)}{15}{section*.9}%
+\contentsfinish 

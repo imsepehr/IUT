@@ -1,0 +1,37 @@
+{ \centering
+\begin{figure}[ht]
+	\centering
+	\includegraphics[width=0.3\textwidth]{IUT Logo.png}
+	\caption*{\textbf{Isfahan University of Technology}}
+	\caption*{\textbf{Department of Electrical and Computer Engineering}}
+	\label{fig:fig1}
+\end{figure}
+
+    \fontsize{35pt}{35pt}{\bf \emphfont Assignment \assnr}
+    
+    \vskip 0.2cm
+    
+%    \ifthenelse{\equal{\groupnr}{}}
+    {{\bf \large \asshl{\mbox{\coursename}}}}\\
+%    {{\bf \large \asshl{\mbox{\coursename, Group \groupnr}}}}
+    
+    {{\bf \large \asshl{\mbox{\Proname}}}}\\
+	{{\bf \large \asshl{\mbox{\TAname}}}}\\
+	{{\bf \large \asshl{\mbox{\Subdate}}}}\\
+	{{\bf \large \asshl{\mbox{\Duedate}}}}
+
+    \def\authorstabledata{} 
+    \foreachitem\z\in\authors[]{%
+        \edef\tabline{\z}
+        \expandafter\addto\expandafter\authorstabledata\expandafter{\tabline \\}
+    }
+    
+    \setlength\arrayrulewidth{3pt}
+    \begin{table}[H] \centering 
+    \begin{tabular}{r|*{\the\numexpr\nrauthorparams-2\relax}{c|}l}
+    
+        \authorstabledata
+    
+    \end{tabular}
+    \end{table}
+}
