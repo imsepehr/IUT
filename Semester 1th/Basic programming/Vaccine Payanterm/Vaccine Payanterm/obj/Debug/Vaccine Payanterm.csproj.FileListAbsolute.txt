@@ -1,0 +1,38 @@
+D:\Visual Studio 2019 Projects\Vaccine Payanterm\Vaccine Payanterm\bin\Debug\Vaccine Payanterm.exe
+D:\Visual Studio 2019 Projects\Vaccine Payanterm\Vaccine Payanterm\bin\Debug\Vaccine Payanterm.exe.config
+D:\Visual Studio 2019 Projects\Vaccine Payanterm\Vaccine Payanterm\obj\Debug\Vaccine_Payanterm.Form1.resources
+D:\Visual Studio 2019 Projects\Vaccine Payanterm\Vaccine Payanterm\obj\Debug\Vaccine_Payanterm.Form2.resources
+D:\Visual Studio 2019 Projects\Vaccine Payanterm\Vaccine Payanterm\obj\Debug\Vaccine_Payanterm.Form3.resources
+D:\Visual Studio 2019 Projects\Vaccine Payanterm\Vaccine Payanterm\obj\Debug\Vaccine_Payanterm.Form4.resources
+D:\Visual Studio 2019 Projects\Vaccine Payanterm\Vaccine Payanterm\obj\Debug\Vaccine_Payanterm.Properties.Resources.resources
+D:\Visual Studio 2019 Projects\Vaccine Payanterm\Vaccine Payanterm\obj\Debug\Vaccine Payanterm.csproj.GenerateResource.cache
+D:\Visual Studio 2019 Projects\Vaccine Payanterm\Vaccine Payanterm\obj\Debug\Vaccine Payanterm.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2019 Projects\Vaccine Payanterm\Vaccine Payanterm\obj\Debug\Vaccine Payanterm.exe
+D:\Visual Studio 2019 Projects\Vaccine Payanterm\Vaccine Payanterm\obj\Debug\Vaccine Payanterm.pdb
+D:\Visual Studio 2019 Projects\Vaccine Payanterm\Vaccine Payanterm\obj\Debug\Vaccine Payanterm.csproj.AssemblyReference.cache
+D:\Visual Studio 2019 Projects\Vaccine Payanterm\Vaccine Payanterm\bin\Debug\Vaccine Payanterm.pdb
+D:\Visual Studio 2019 Projects\Vaccine Payanterm\Vaccine Payanterm\obj\Debug\Vaccine_Payanterm.Form5.resources
+D:\Visual Studio 2019 Projects\Vaccine Payanterm\Vaccine Payanterm\obj\Debug\Vaccine_Payanterm.Form6.resources
+D:\Visual Studio 2019 Projects\Vaccine Payanterm\Vaccine Payanterm\obj\Debug\Vaccine_Payanterm.Form7.resources
+D:\Visual Studio 2019 Projects\Vaccine Payanterm\Vaccine Payanterm\obj\Debug\Vaccine_Payanterm.Form8.resources
+D:\Visual Studio 2019 Projects\Vaccine Payanterm\Vaccine Payanterm\obj\Debug\Vaccine_Payanterm.Form9.resources
+D:\Visual Studio 2019 Projects\Vaccine Payanterm\Vaccine Payanterm\obj\Debug\Vaccine_Payanterm.Form10.resources
+D:\Vaccine Payanterm\Vaccine Payanterm\bin\Debug\Vaccine Payanterm.exe.config
+D:\Vaccine Payanterm\Vaccine Payanterm\bin\Debug\Vaccine Payanterm.exe
+D:\Vaccine Payanterm\Vaccine Payanterm\bin\Debug\Vaccine Payanterm.pdb
+D:\Vaccine Payanterm\Vaccine Payanterm\obj\Debug\Vaccine Payanterm.csproj.AssemblyReference.cache
+D:\Vaccine Payanterm\Vaccine Payanterm\obj\Debug\Vaccine_Payanterm.Form1.resources
+D:\Vaccine Payanterm\Vaccine Payanterm\obj\Debug\Vaccine_Payanterm.Form10.resources
+D:\Vaccine Payanterm\Vaccine Payanterm\obj\Debug\Vaccine_Payanterm.Form2.resources
+D:\Vaccine Payanterm\Vaccine Payanterm\obj\Debug\Vaccine_Payanterm.Form3.resources
+D:\Vaccine Payanterm\Vaccine Payanterm\obj\Debug\Vaccine_Payanterm.Form4.resources
+D:\Vaccine Payanterm\Vaccine Payanterm\obj\Debug\Vaccine_Payanterm.Form5.resources
+D:\Vaccine Payanterm\Vaccine Payanterm\obj\Debug\Vaccine_Payanterm.Form6.resources
+D:\Vaccine Payanterm\Vaccine Payanterm\obj\Debug\Vaccine_Payanterm.Form7.resources
+D:\Vaccine Payanterm\Vaccine Payanterm\obj\Debug\Vaccine_Payanterm.Form8.resources
+D:\Vaccine Payanterm\Vaccine Payanterm\obj\Debug\Vaccine_Payanterm.Form9.resources
+D:\Vaccine Payanterm\Vaccine Payanterm\obj\Debug\Vaccine_Payanterm.Properties.Resources.resources
+D:\Vaccine Payanterm\Vaccine Payanterm\obj\Debug\Vaccine Payanterm.csproj.GenerateResource.cache
+D:\Vaccine Payanterm\Vaccine Payanterm\obj\Debug\Vaccine Payanterm.csproj.CoreCompileInputs.cache
+D:\Vaccine Payanterm\Vaccine Payanterm\obj\Debug\Vaccine Payanterm.exe
+D:\Vaccine Payanterm\Vaccine Payanterm\obj\Debug\Vaccine Payanterm.pdb

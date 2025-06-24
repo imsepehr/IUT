@@ -1,0 +1,9 @@
+﻿  main tabe.cpp
+E:\Mabani IUT\project term 1 tabe\project term 1 tabe\main tabe.cpp(37,93): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+E:\Mabani IUT\project term 1 tabe\project term 1 tabe\main tabe.cpp(37,93): warning C4309: 'initializing': truncation of constant value
+E:\Mabani IUT\project term 1 tabe\project term 1 tabe\main tabe.cpp(38,94): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+E:\Mabani IUT\project term 1 tabe\project term 1 tabe\main tabe.cpp(38,94): warning C4309: 'initializing': truncation of constant value
+E:\Mabani IUT\project term 1 tabe\project term 1 tabe\main tabe.cpp(174,8): warning C4102: 'tekrar': unreferenced label
+E:\Mabani IUT\project term 1 tabe\project term 1 tabe\main tabe.cpp(242,9): warning C4102: 'tekrar1': unreferenced label
+E:\Mabani IUT\project term 1 tabe\project term 1 tabe\main tabe.cpp(935,7): warning C4101: 'buffer': unreferenced local variable
+  project term 1 tabe.vcxproj -> E:\Mabani IUT\project term 1 tabe\x64\Debug\project term 1 tabe.exe

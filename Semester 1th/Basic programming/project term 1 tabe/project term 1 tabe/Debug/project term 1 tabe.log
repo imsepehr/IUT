@@ -1,0 +1,7 @@
+﻿  main tabe.cpp
+E:\Visual Studio 2019 Codes\project term 1 tabe\project term 1 tabe\main tabe.cpp(38): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+E:\Visual Studio 2019 Codes\project term 1 tabe\project term 1 tabe\main tabe.cpp(38): warning C4309: 'initializing': truncation of constant value
+E:\Visual Studio 2019 Codes\project term 1 tabe\project term 1 tabe\main tabe.cpp(173): warning C4102: 'tekrar': unreferenced label
+E:\Visual Studio 2019 Codes\project term 1 tabe\project term 1 tabe\main tabe.cpp(241): warning C4102: 'tekrar1': unreferenced label
+E:\Visual Studio 2019 Codes\project term 1 tabe\project term 1 tabe\main tabe.cpp(934): warning C4101: 'buffer': unreferenced local variable
+  project term 1 tabe.vcxproj -> E:\Visual Studio 2019 Codes\project term 1 tabe\Debug\project term 1 tabe.exe
