@@ -1,0 +1,41 @@
+\nobreakspace {}\relax $\@@underline {\hbox {\beginR \textbf {\fontsize {10pt}{0}\selectfont {\BZarScaleOne عنــوان}}\endR }}\mathsurround \z@ $\relax \hfill \relax $\@@underline {\hbox {\beginR \textbf {\fontsize {10pt}{0}\selectfont {\BZarScaleOne صفحه}}\endR }}\mathsurround \z@ $\relax \vspace {0.2cm}\par 
+\contentsline {section}{فهرست مطالب}{هشت}{section*.2}
+\contentsline {section}{فهرست شکل‌ها}{ده}{section*.3}
+\contentsline {section}{فهرست جدول‌ها}{یازده}{section*.4}
+\contentsline {section}{فهرست الگوریتم‌ها}{دوازده}{section*.5}
+\contentsline {section}{چکیده}{1}{section*.7}
+\contentsline {chapter}{\numberline {فصل\nobreakspace {}اول}راهنمای استفاده از کلاس}{2}{chapter.1}
+\contentsline {section}{\numberline {1-1}مقدمه}{2}{section.1.1}
+\contentsline {section}{\numberline {1-2}این همه فایل؟!}{3}{section.1.2}
+\contentsline {section}{\numberline {1-3}از کجا شروع کنم؟}{3}{section.1.3}
+\contentsline {section}{\numberline {1-4}مطالب پروژه را چطور بنویسم؟}{4}{section.1.4}
+\contentsline {subsection}{\numberline {1-4-1}نوشتن فصل‌ها}{4}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1-4-2}مراجع}{5}{subsection.1.4.2}
+\contentsline {section}{\numberline {1-5}اگر سوالی داشتم، از کی بپرسم؟}{5}{section.1.5}
+\contentsline {section}{\numberline {1-6}جمع‌بندی}{5}{section.1.6}
+\contentsline {chapter}{\numberline {فصل\nobreakspace {}دوم}آشنایی سریع با برخی دستورات لاتک}{6}{chapter.2}
+\contentsline {section}{\numberline {2-1}بندها و زیرنویس‌ها}{6}{section.2.1}
+\contentsline {section}{\numberline {2-2}فرمول‌های ریاضی}{7}{section.2.2}
+\contentsline {subsection}{\numberline {2-2-1}یک زیربخش}{7}{subsection.2.2.1}
+\contentsline {subsubsection}{یک زیرزیربخش}{7}{subsubsection*.8}
+\contentsline {section}{\numberline {2-3}نوشته‌های فارسی و انگلیسی مخلوط}{7}{section.2.3}
+\contentsline {section}{\numberline {2-4}افزودن تصویر به نوشته}{8}{section.2.4}
+\contentsline {section}{\numberline {2-5}محیط‌های شمارش و نکات}{8}{section.2.5}
+\contentsline {section}{\numberline {2-6}چگونگی نوشتن و ارجاع به مراجع}{9}{section.2.6}
+\contentsline {chapter}{\numberline {فصل\nobreakspace {}سوم}امتحانی}{10}{chapter.3}
+\contentsline {section}{\numberline {3-1}نمرات}{10}{section.3.1}
+\setcounter {tocdepth}{-1}
+\setcounter {tocdepth}{2}
+\contentsline {chapter}{پیوست‌ها}{11}{appendix*.11}
+\contentsline {section}{\numberline {پ-1}مدیریت مراجع در لاتک}{11}{section.Alph3.1}
+\contentsline {subsection}{\numberline {پ-1-1} مدیریت مراجع با \lr {Bib\LRE {T\kern -.1667em\lower .5ex\hbox {E}\kern -.125emX\spacefactor \@m {}}} }{11}{subsection.Alph3.1.1}
+\contentsline {subsection}{\numberline {پ-1-2}سبک‌های فعلی قابل استفاده در زی‌پرشین}{12}{subsection.Alph3.1.2}
+\contentsline {subsection}{\numberline {پ-1-3} نحوه استفاده از سبک‌های فارسی}{12}{subsection.Alph3.1.3}
+\contentsline {section}{\numberline {پ-2}‌جدول، نمودار و الگوریتم در لاتک}{14}{section.Alph3.2}
+\contentsline {subsection}{\numberline {پ-2-1}مدلهای حرکت دوبعدی}{14}{subsection.Alph3.2.1}
+\contentsline {subsection}{\numberline {پ-2-2}ماتریس}{14}{subsection.Alph3.2.2}
+\contentsline {subsection}{\numberline {پ-2-3}الگوریتم با دستورات فارسی}{15}{subsection.Alph3.2.3}
+\contentsline {subsection}{\numberline {پ-2-4}الگوریتم با دستورات لاتین}{15}{subsection.Alph3.2.4}
+\contentsline {subsection}{\numberline {پ-2-5}نمودار}{16}{subsection.Alph3.2.5}
+\contentsline {subsection}{\numberline {پ-2-6}تصویر}{16}{subsection.Alph3.2.6}
+\contentsline {chapter}{{مراجع}}{18}{figure.caption.14}

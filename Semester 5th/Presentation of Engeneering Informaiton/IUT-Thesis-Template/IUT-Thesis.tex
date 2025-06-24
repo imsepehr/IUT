@@ -1,0 +1,179 @@
+% IUT-Thesis v2.5
+
+%CHANGE LOG IUT-Thesis v2.5
+%---------------------------
+%- Add some options to signature pages
+%- Adaption to Texlive 2016, Xeperian 18.2 and Bidi 30.2
+%- Fix some buges: paragraph footnote, reference style, and ...
+
+
+% این قالب بر اساس فرمت پایان‌نامه‌ها و رساله‌های تحصیلات تکمیلی دانشگاه صنعتی اصفهان تهیه شده است. شما می‌توانید آخرین نسخه این قالب را از دریافت کنید.
+
+% توصیه می‌شود که از توزیع تک‌لایو (TexLive) استفاده شود:
+% http://tug.org/texlive/acquire-iso.html
+
+% موفق باشید.
+% محمد جان‌نثاری
+% mohammad.jannesari@gmail.com
+% امین فخاری
+% a101.fakhari@gmail.com
+% ‌فروردین 1396
+% -----------------------------------------------------------------------------------
+
+% نکات:
+
+% برای دریافت نتیجه مطلوب از این قالب بایستی از آخرین نسخه تک‌لایو به همراه Xepersian نسخه 18.2 , Bidi نسخه 30.2 استفاده شود.
+
+% برای آن‌که پردازش فایل و مشاهده خروجی در هنگام نوشتن پایان‌نامه آسان‌تر و سریع‌تر انجام شود، انجام موارد زیر توصیه می گردد:
+% الف) فصل‌ها و بخش‌هایی که در حال نوشتن آن‌ها نیستید را غیر فعال کنید. به‌عنوان مثال، در این قالب، این دستورات را می‌توان در صورت عدم نیاز با اضافه کردن % به طور موقت غیرفعال کرد:
+% \MakeTitlePage
+% \MakeFarsiSignaturePage
+% \input{Chapters/Acknowledgments}
+% \MakeCopyRightPage
+% \input{Chapters/Dedication}
+% \MakeTableOfContents
+% \MakeListOfFigures
+% \MakeListOfTables
+% \MakeFarsiAbstract
+% \input{Chapters/Chapter#}
+% \MakeAppendices
+% \input{Chapters/Appendices}
+% \MakeEnglishAbstract
+% \MakeEnglishSignaturePage
+% ب) از گزینه draft برای فراخوانی کلاس استفاده کنید. یعنی
+% \documentclass[a4paper,fleqn,10pt,oneside,draft]{book}
+% این گزینه حالت چرکنویس را ایفا می‌کند و بر روی بسته‌های مختلف اثرهای متفاوتی دارد. به‌عنوان مثال: به جای شکل، تنها چهارچوب آن نمایش داده شود، لینک‌های hyperref غیر فعال گردد، فایل‌های خارجی را در بسته listings اضافه نمی‌کند و ... و همه این موارد سبب کاهش زمان اجرا و حجم فایل می‌شود.
+
+% در صورتی که میخواهید به سطر بعد بروید اما نمیخواهید بین دو کلمه‌ای که نوشتید فاصله بیفتد کافی است در انتهای خط اول  (بدون فاصله) کاراکتر % را اضافه کنید. با این عمل، لاتک خط فاصله ایجاد شده در اثر تغییر سطر را به عنوان توضیح اضافه یا کامنت در نظر میگیرد و در خروجی اعمال نمی‌کند.
+
+% توصیه می‌شود از شکل‌های برداری با فرمت PDF استفاده شود. این کار علاوه بر افزایش کیفیت رسال/پایان‌نامه/گزارش، باعث کاهش حجم شکل‌ها (و در نتیجه  کاهش حجم فایل نهایی) و همچنین کاهش زمان پردازش می‌شود.
+
+% در این قالب سعی شده است که از تمامی بخش‌های موجود در پایان‌نامه‌ها نمونه‌ای آورده شود.
+
+% لطفا هرگونه عدم تطابق این قالب با فرمت دانشگاه صنعتی اصفهان را به ایمیل (mohammad.jannesari@gmail.com) اطلاع دهید.
+
+\documentclass[a4paper,fleqn,10pt,oneside]{book}
+\usepackage{Settings/IUT-Thesis}
+%-----------------------------
+% دستورهای مورد نیاز را در این قسمت اضافه نمایید:
+\allowdisplaybreaks
+%-----------------------------
+
+\begin{document}
+
+\pagestyle{plain}
+\pagenumbering{adadi}
+\setcounter{page}{2}
+
+% ░░░░░░░▒▒▒▒▒▒▓▓▓▓ In the Name of Allah ▓▓▓▓▒▒▒▒▒▒░░░░░░░
+\clearpage
+\thispagestyle{empty}
+\begin{figure}[t]
+\centering
+\includegraphics[scale=1.3]{Settings/Allah.pdf}
+\end{figure}
+
+% ░░░░░░░▒▒▒▒▒▒▓▓▓▓ Title Page ▓▓▓▓▒▒▒▒▒▒░░░░░░░
+\DepartmentFa{دانشکده مهندسی مکانیک}
+\ThesisTypeFa{پایان‌نامه} % Or \ThesisTypeFa{رساله} Or \ThesisTypeFa{پیشنهادیه پایان‌نامه}
+\DegreeFa{کارشناسی ارشد} % Or \DegreeFa{دکتری} 
+\FieldFa{مهندسی مکانیک}
+\YourFullnameFa{محمد جان‌نثاری}
+\FirstSupervisorFa{دکتر محمود کدخدایی}
+\SecondSupervisorFa{دکتر پیمان مصدق} % Optional (Remove It If You Don't Have)
+\YearFa{1395}
+\TitleFa{
+مدل‌سازی اجزای محدود رفتار بیومکانیکی بافت کره چشم  
+\\[0.4cm]
+با استفاده از فشار داخلی چشم
+}
+% اگر عنوان رساله طولانی بود، در دو خط به صورت نشان داده شده تقسیم شود.
+
+\MakeTitlePage%
+
+% ░░░░░░░▒▒▒▒▒▒▓▓▓▓ Signature - Farsi ▓▓▓▓▒▒▒▒▒▒░░░░░░░
+\Prefix{آقای} %\Prefix{خانم}
+\DateFa{1395/10/20}
+%\FirstAdvisorFa{دکتر مشاور اول} % Optional (Remove It If You Don't Have)
+%\SecondAdvisorFa{دکتر مشاور دوم} % Optional (Remove It If You Don't Have)
+\FirstExaminerFa{دکتر داور اول} % Optional (Remove It If You Don't Have)
+\SecondExaminerFa{دکتر داور دوم} % Optional (Remove It If You Don't Have)
+%\ThirdExaminerFa{دکتر داور سوم} % Optional (Remove It If You Don't Have)
+%\FourthExaminerFa{دکتر داور چهارم} % Optional (Remove It If You Don't Have)
+%\FifthExaminerFa{دکتر داور پنجم} % Optional (Remove It If You Don't Have)
+\DeanOfDepartmentFa{دکتر تحصیلات تکمیلی دانشکده}
+
+\MakeFarsiSignaturePage%
+
+% ░░░░░░░▒▒▒▒▒▒▓▓▓▓ Acknowledgments ▓▓▓▓▒▒▒▒▒▒░░░░░░░
+\input{Chapters/Acknowledgments}%
+
+% ░░░░░░░▒▒▒▒▒▒▓▓▓▓ CopyRight ▓▓▓▓▒▒▒▒▒▒░░░░░░░
+\MakeCopyRightPage%
+
+% ░░░░░░░▒▒▒▒▒▒▓▓▓▓ Dedication ▓▓▓▓▒▒▒▒▒▒░░░░░░░
+\input{Chapters/Dedication}%
+
+% ░░░░░░░▒▒▒▒▒▒▓▓▓▓ Table of Contents/Figures/Tables ▓▓▓▓▒▒▒▒▒▒░░░░░░░
+\MakeTableOfContents%
+\MakeListOfFigures%
+\MakeListOfTables%
+\MakeListOfAlgorithms% for test
+
+% ----------------------------------------------------------------------------
+\clearpage
+\pagestyle{myheadings}
+\pagenumbering{arabic}
+\setcounter{page}{1}
+
+% ░░░░░░░▒▒▒▒▒▒▓▓▓▓ Abstract - Farsi ▓▓▓▓▒▒▒▒▒▒░░░░░░░
+\input{Chapters/AbstractFa}%
+\MakeFarsiAbstract%
+
+% ░░░░░░░▒▒▒▒▒▒▓▓▓▓ Chapters ▓▓▓▓▒▒▒▒▒▒░░░░░░░
+\clearpage
+\baselineskip=0.9cm
+
+\input{Chapters/Chapter1}
+\input{Chapters/Chapter2}
+\input{Chapters/Chapter3}%
+
+% ░░░░░░░▒▒▒▒▒▒▓▓▓▓ Appendices ▓▓▓▓▒▒▒▒▒▒░░░░░░░
+\MakeAppendices%
+\input{Chapters/Appendices}%
+
+% ░░░░░░░▒▒▒▒▒▒▓▓▓▓ References ▓▓▓▓▒▒▒▒▒▒░░░░░░░
+\MakeReferences%
+\bibliographystyle{Settings/ModifiedIEEEtranFa}%
+\bibliography{References}%
+
+% ░░░░░░░▒▒▒▒▒▒▓▓▓▓ Abstract - English ▓▓▓▓▒▒▒▒▒▒░░░░░░░
+\DepartmentEn{Department of Mechanical Engineering}
+\DegreeEn{Master of Science}%\DegreeEn{Master of Science (MSc)} % Or \DegreeEn{Doctor of Philosophy (PhD)}
+\YourFullnameEn{Mohammad Jannesari}
+\YourEmailAddress{m.jannesari@me.iut.ac.ir}
+\DateEn{January 9, 2017}
+\FirstSupervisorEn{Mahmoud Kadkhodaei, Assoc. Prof.}
+\FirstSupervisorEmailAddress{kadkhodaei@cc.iut.ac.ir}
+\SecondSupervisorEn{Peiman Mosaddegh, Assist. Prof.} % Optional (Remove It If You Don't Have)
+\SecondSupervisorEmailAddress{mosadegh@cc.iut.ac.ir} % Optional (Remove It If You Don't Have)
+\TitleEn{Finite Element Modeling of Biomechanical Behavior of \\[0.2cm] the Eye Globe Tissue by Using the Intraocular Pressure}
+% اگر عنوان رساله طولانی بود، در دو خط به صورت نشان داده شده تقسیم شود.
+
+\input{Chapters/AbstractEn}%
+\MakeEnglishAbstract%
+
+% ░░░░░░░▒▒▒▒▒▒▓▓▓▓ Signature - English ▓▓▓▓▒▒▒▒▒▒░░░░░░░
+%\FirstAdvisorEn{First Advisor, Assoc. Prof.}
+%\SecondAdvisorEn{Second Advisor, Assist. Prof.} % Optional (Remove It If You Don't Have)
+\FirstExaminerEn{First Examiner, Assoc. Prof.} % Optional (Remove It If You Don't Have)
+\SecondExaminerEn{First Examiner, Assist. Prof.} % Optional (Remove It If You Don't Have)
+%\ThirdExaminerEn{Third Examiner, Prof.} % Optional (Remove It If You Don't Have)
+%\FourthExaminerEn{Fourth Examiner, Prof.} % Optional (Remove It If You Don't Have)
+%\FifthExaminerEn{Fifth Examiner, Prof.} % Optional (Remove It If You Don't Have)
+\DeanOfDepartmentEn{Reza Tikani, Assist. Prof.}
+
+\MakeEnglishSignaturePage%
+
+\end{document} 
+
