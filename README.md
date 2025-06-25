@@ -33,6 +33,6 @@ All semesters are structured as folders, each containing course materials like c
    ```bash
    git clone https://github.com/imsepehr/IUT.git
 2. Navigate to a semester and course:
-  ```bash
+   ```bash
    cd IUT/Semester\ 3th/Data_Structures
 3. Explore code files, reports, slides, and notes.
