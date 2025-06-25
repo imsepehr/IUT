@@ -1,0 +1,37 @@
+% تعریف رنگ‌ها
+color(red).
+color(green).
+color(blue).
+color(yellow).
+
+% روابط همسایگی بین استان‌ها
+neighbor(esfahan, yazd).
+neighbor(esfahan, fars).
+neighbor(esfahan, chaharmahal).
+neighbor(esfahan, markazi).
+neighbor(yazd, fars).
+neighbor(fars, chaharmahal).
+neighbor(fars, lorestan).
+neighbor(chaharmahal, lorestan).
+neighbor(lorestan, kordestan).
+neighbor(lorestan, hamedan).
+neighbor(kordestan, hamedan).
+neighbor(kordestan, markazi).
+neighbor(hamedan, markazi).
+
+% قانون اصلی رنگ‌آمیزی نقشه
+mapcoloringiran(Solution) :-
+    Solution = [esfahan-Esfahan, yazd-Yazd, fars-Fars, chaharmahal-Chaharmahal, 
+                lorestan-Lorestan, kordestan-Kordestan, markazi-Markazi, hamedan-Hamedan],
+    depthFirst([], Solution).
+
+% الگوریتم جستجوی عمق‌نخست
+depthFirst(_, []) :- !.
+depthFirst(Assigned, [Province-Color | Rest]) :-
+    color(Color), % انتخاب رنگ
+    safe(Province, Color, Assigned), % بررسی محدودیت‌ها
+    depthFirst([Province-Color | Assigned], Rest).
+
+% بررسی محدودیت‌ها
+safe(Province, Color, Assigned) :-
+    \+ (member(Neighbor-Color, Assigned), neighbor(Province, Neighbor)). % بررسی عدم هم‌رنگی همسایگان
