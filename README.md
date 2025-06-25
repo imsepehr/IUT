@@ -6,34 +6,24 @@ A complete archive of coursework, assignments, projects, and lecture notes from 
 
 ## 🗂️ Semester Structure
 
-### ✅ Semester 01
-- Basic_Programming  
-- Mathematics_1  
-- Physics_1  
-- ...
-
-### ✅ Semester 02
-- Advanced_Programming  
-- Mathematics_2  
-- Physics_2  
-- ...
-
-### ✅ Semester 03 to 10
-- Data_Structures, Operations_Research, Optimization, Project_Management, and more
-
-_(Courses are organized under each semester folder. Click on any course for its content.)_
+All semesters are structured as folders, each containing course materials like codes, reports, notes, and slides.
 
 ---
 
 ## 🔗 Quick Access
 
-| Semester | Courses |
-|----------|---------|
-| [Semester 01](Semester%2001/) | Basic_Programming, Mathematics_1, ... |
-| [Semester 02](Semester%2002/) | Advanced_Programming, Physics_2, ... |
-| [Semester 03](Semester%2003/) | Data_Structures, Discrete_Math, ... |
-| … | … |
-| [Semester 10](Semester%2010/) | Graduation_Project, Research_Methods, ... |
+| Semester       | Folder Link |
+|----------------|-------------|
+| Semester 1     | [Semester 1th](Semester%201th/) |
+| Semester 2     | [Semester 2th](Semester%202th/) |
+| Semester 3     | [Semester 3th](Semester%203th/) |
+| Semester 4     | [Semester 4th](Semester%204th/) |
+| Semester 5     | [Semester 5th](Semester%205th/) |
+| Semester 6     | [Semester 6th](Semester%206th/) |
+| Semester 7     | [Semester 7th](Semester%207th/) |
+| Semester 8     | [Semester 8th](Semester%208th/) |
+| Semester 9     | [Semester 9th](Semester%209th/) |
+| Semester 10    | [Semester 10th](Semester%2010th/) |
 
 ---
 
@@ -42,3 +32,7 @@ _(Courses are organized under each semester folder. Click on any course for its 
 1. Clone the repository:
    ```bash
    git clone https://github.com/imsepehr/IUT.git
+2. Navigate to a semester and course:
+   ‍```bash
+   cd IUT/Semester\ 3th/Data_Structures
+3. Explore code files, reports, slides, and notes.
