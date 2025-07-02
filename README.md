@@ -14,6 +14,7 @@ All semesters are structured as folders, each containing course materials like c
 
 | Semester       | Folder Link |
 |----------------|-------------|
+| Internship     | [Internship](Internship/) |
 | Semester 1     | [Semester 1th](Semester%201th/) |
 | Semester 2     | [Semester 2th](Semester%202th/) |
 | Semester 3     | [Semester 3th](Semester%203th/) |
