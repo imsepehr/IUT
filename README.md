@@ -37,3 +37,6 @@ All semesters are structured as folders, each containing course materials like c
    ```bash
    cd IUT/Semester\ 3th/Data_Structures
 3. Explore code files, reports, slides, and notes.
+4. Navigate to the Internship folder for internship-related materials:
+   ```bash
+   cd IUT/Internship
