@@ -20,6 +20,7 @@ All semesters and the Internship folder are structured with materials like codes
 ## 🔗 Quick Access
 | **Section**      | **Folder Link**         | **Last Updated** |
 |-------------------|--------------------------|------------------|
+| 📊 Chart         | [Chart](Chart/)          | July 02, 2025    |
 | 💼 Internship    | [Internship](Internship/) | July 02, 2025    |
 | 📚 Semester 1    | [Semester 1th](Semester%201th/) | June 25, 2025 |
 | 📚 Semester 2    | [Semester 2th](Semester%202th/) | June 25, 2025 |
@@ -31,7 +32,6 @@ All semesters and the Internship folder are structured with materials like codes
 | 📚 Semester 8    | [Semester 8th](Semester%208th/) | June 25, 2025 |
 | 📚 Semester 9    | [Semester 9th](Semester%209th/) | June 25, 2025 |
 | 📚 Semester 10   | [Semester 10th](Semester%2010th/) | June 25, 2025 |
-
 ---
 
 ## ⚙️ How to Get Started
@@ -44,7 +44,10 @@ All semesters and the Internship folder are structured with materials like codes
 3. **Check Out Internship**
    ```bash
    cd IUT/Internship
-4. **Dive In:** Browse codes, reports, slides, and notes to your heart's content! 🎉
+4. **View Course Charts**
+   ```bash
+   cd IUT/Chart
+5. **Dive In:** Browse codes, reports, slides, and notes to your heart's content! 🎉
 
 ## 🌐 Connect With Me
 - **GitHub**: [imsepehr](https://github.com/imsepehr)
