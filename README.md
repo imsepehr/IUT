@@ -18,20 +18,21 @@ All semesters and the Internship folder are structured with materials like codes
 ---
 
 ## 🔗 Quick Access
-| **Section**      | **Folder Link**         | **Last Updated** |
-|-------------------|--------------------------|------------------|
-| 📊 Chart         | [Chart](Chart/)          | July 02, 2025    |
-| 💼 Internship    | [Internship](Internship/) | July 02, 2025    |
-| 📚 Semester 1    | [Semester 1th](Semester%201th/) | June 25, 2025 |
-| 📚 Semester 2    | [Semester 2th](Semester%202th/) | June 25, 2025 |
-| 📚 Semester 3    | [Semester 3th](Semester%203th/) | June 25, 2025 |
-| 📚 Semester 4    | [Semester 4th](Semester%204th/) | June 25, 2025 |
-| 📚 Semester 5    | [Semester 5th](Semester%205th/) | June 25, 2025 |
-| 📚 Semester 6    | [Semester 6th](Semester%206th/) | June 25, 2025 |
-| 📚 Semester 7    | [Semester 7th](Semester%207th/) | June 25, 2025 |
-| 📚 Semester 8    | [Semester 8th](Semester%208th/) | June 25, 2025 |
-| 📚 Semester 9    | [Semester 9th](Semester%209th/) | June 25, 2025 |
-| 📚 Semester 10   | [Semester 10th](Semester%2010th/) | June 25, 2025 |
+| **Section**      | **Folder Link**         |
+|-------------------|--------------------------|
+| 📊 Chart         | [Chart](Chart/)          |
+| 💼 Project    | [Project](Project/) |
+| 💼 Internship    | [Internship](Internship/) |
+| 📚 Semester 1    | [Semester 1th](Semester%201th/) | 
+| 📚 Semester 2    | [Semester 2th](Semester%202th/) | 
+| 📚 Semester 3    | [Semester 3th](Semester%203th/) | 
+| 📚 Semester 4    | [Semester 4th](Semester%204th/) | 
+| 📚 Semester 5    | [Semester 5th](Semester%205th/) | 
+| 📚 Semester 6    | [Semester 6th](Semester%206th/) | 
+| 📚 Semester 7    | [Semester 7th](Semester%207th/) | 
+| 📚 Semester 8    | [Semester 8th](Semester%208th/) | 
+| 📚 Semester 9    | [Semester 9th](Semester%209th/) | 
+| 📚 Semester 10   | [Semester 10th](Semester%2010th/) | 
 ---
 
 ## ⚙️ How to Get Started
