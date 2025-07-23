@@ -1,0 +1,134 @@
+\textbf {\underline {عنوان}}
+\hfill \textbf {\underline {صفحه}}\par 
+\contentsline {section}{فهرست مطالب}{پنج}{}%
+\contentsline {section}{فهرست شکل‌ها}{هشت}{}%
+\contentsline {section}{فهرست جدول‌ها}{نه}{}%
+\contentsline {section}{چکیده}{1}{}%
+\contentsline {chapter}{فصل~\numberline {اول\,: مقدمه}}{3}{}%
+\contentsline {section}{\numberline {1-1}انگیزه و اهمیت تحقیق}{3}{}%
+\contentsline {section}{\numberline {1-2}تعریف مسئله}{4}{}%
+\contentsline {section}{\numberline {1-3}اهداف تحقیق}{5}{}%
+\contentsline {section}{\numberline {1-4}ساختار گزارش}{5}{}%
+\contentsline {chapter}{فصل~\numberline {دوم\,: پیش‌زمینه نظری}}{6}{}%
+\contentsline {section}{\numberline {2-1}مقدمه}{6}{}%
+\contentsline {section}{\numberline {2-2}تقسیم‌بندی داده‌ها}{7}{}%
+\contentsline {section}{\numberline {2-3}مقیاس‌بندی داده‌ها}{7}{}%
+\contentsline {section}{\numberline {2-4}بیش‌برازش و کم‌برازش}{8}{}%
+\contentsline {section}{\numberline {2-5}اعتبارسنجی متقاطع}{9}{}%
+\contentsline {section}{\numberline {2-6}روش نزول گرادیان}{9}{}%
+\contentsline {subsection}{\numberline {2-6-1}تابع هزینه چیست؟}{9}{}%
+\contentsline {subsection}{\numberline {2-6-2}نزول گرادیان چیست؟}{9}{}%
+\contentsline {subsection}{\numberline {2-6-3}نحوه کار نزول گرادیان چگونه است؟}{9}{}%
+\contentsline {subsection}{\numberline {2-6-4}آلفا - نرخ یادگیری}{10}{}%
+\contentsline {subsection}{\numberline {2-6-5}کمینه‌های محلی}{11}{}%
+\contentsline {subsection}{\numberline {2-6-6}مزایا و معایب}{11}{}%
+\contentsline {section}{\numberline {2-7}ناخالصی جینی}{12}{}%
+\contentsline {section}{\numberline {2-8}اطلاعات کسب شده}{13}{}%
+\contentsline {section}{\numberline {2-9}مدل‌های مورد استفاده}{13}{}%
+\contentsline {subsection}{\numberline {2-9-1}رگرسیون ریج}{14}{}%
+\contentsline {subsection}{\numberline {2-9-2}درخت تصمیم}{15}{}%
+\contentsline {subsection}{\numberline {2-9-3}جنگل تصادفی}{17}{}%
+\contentsline {subsection}{\numberline {2-9-4}رگرسیون بردار پشتیبان}{18}{}%
+\contentsline {subsection}{\numberline {2-9-5}افزایش گرادیان افراطی}{22}{}%
+\contentsline {subsection}{\numberline {2-9-6}تقویت دسته‌ای}{24}{}%
+\contentsline {subsection}{\numberline {2-9-7}شبکه عصبی چندلایه}{26}{}%
+\contentsline {paragraph}{لایه ورودی:}{30}{}%
+\contentsline {paragraph}{لایه میانی (پنهان):}{30}{}%
+\contentsline {paragraph}{لایه خروجی:}{31}{}%
+\contentsline {paragraph}{وزن‌ها:}{31}{}%
+\contentsline {paragraph}{نورون‌های بایاس:}{31}{}%
+\contentsline {paragraph}{توابع فعال‌سازی:}{31}{}%
+\contentsline {paragraph}{انتشار روبه‌جلو و پس‌انتشار خطا:}{31}{}%
+\contentsline {paragraph}{لایه ورودی:}{32}{}%
+\contentsline {paragraph}{لایه‌های میانی:}{32}{}%
+\contentsline {paragraph}{لایه خروجی:}{33}{}%
+\contentsline {subsection}{\numberline {2-9-8}شبکه عصبی عمیق}{33}{}%
+\contentsline {paragraph}{بیش‌برازش:}{38}{}%
+\contentsline {paragraph}{کم‌برازش:}{38}{}%
+\contentsline {section}{\numberline {2-10}معیارهای ارزیابی مدل‌ها}{39}{}%
+\contentsline {chapter}{فصل~\numberline {سوم\,: مروری بر پژوهش‌های پیشین}}{41}{}%
+\contentsline {section}{\numberline {3-1}مقدمه}{41}{}%
+\contentsline {section}{\numberline {3-2}دوره انتقال و اهمیت پایش آن در گاوهای شیری}{42}{}%
+\contentsline {subsection}{\numberline {3-2-1}شاخص دوره انتقال و محدودیت‌های آن}{42}{}%
+\contentsline {subsection}{\numberline {3-2-2}چالش پایش دوره انتقال در تلیسه‌ها}{43}{}%
+\contentsline {section}{\numberline {3-3}روش‌های پیش‌بینی عملکرد شیر}{43}{}%
+\contentsline {subsection}{\numberline {3-3-1}روش‌های سنتی و آماری}{43}{}%
+\contentsline {subsection}{\numberline {3-3-2}کاربرد یادگیری ماشین در پیش‌بینی عملکرد شیر}{44}{}%
+\contentsline {section}{\numberline {3-4}عوامل تأثیرگذار بر عملکرد شیر در اوایل شیردهی و دوره انتقال}{46}{}%
+\contentsline {section}{\numberline {3-5}چالش‌ها، محدودیت‌ها و پژوهش‌های آتی}{47}{}%
+\contentsline {section}{\numberline {3-6}نتیجه‌گیری}{48}{}%
+\contentsline {chapter}{فصل~\numberline {چهارم\,: توسعه مدل}}{50}{}%
+\contentsline {section}{\numberline {4-1}مقدمه}{50}{}%
+\contentsline {section}{\numberline {4-2}تحلیل داده‌های دامداری رحمت‌آباد}{50}{}%
+\contentsline {subsection}{\numberline {4-2-1}شاخص دوره انتقال در ماه‌های مختلف سال}{51}{}%
+\contentsline {subsection}{\numberline {4-2-2}روند تغییرات شاخص دوره انتقال}{52}{}%
+\contentsline {subsection}{\numberline {4-2-3}هیستوگرام شاخص دوره انتقال برای گاوهای تازه‌زا}{53}{}%
+\contentsline {subsection}{\numberline {4-2-4}روند تغییرات نسبت چربی به پروتئین}{54}{}%
+\contentsline {subsection}{\numberline {4-2-5}تعداد ریزش داده خام}{56}{}%
+\contentsline {subsection}{\numberline {4-2-6}گاو‌های تازه‌زا با شاخص دوره انتقال کمتر از ۸-}{57}{}%
+\contentsline {section}{\numberline {4-3}پیش پردازش داده‌ها}{58}{}%
+\contentsline {subsection}{\numberline {4-3-1}مجموعه داده}{58}{}%
+\contentsline {subsection}{\numberline {4-3-2}نمایش توزیع متغیرها}{59}{}%
+\contentsline {subsection}{\numberline {4-3-3}تحلیل ماتریس همبستگی}{62}{}%
+\contentsline {subsection}{\numberline {4-3-4}مدیریت داده‌های گمشده}{63}{}%
+\contentsline {subsection}{\numberline {4-3-5}تقسیم‌بندی داده‌ها و نرمال‌سازی}{63}{}%
+\contentsline {section}{\numberline {4-4}مدل‌های آموزش داده‌شده}{64}{}%
+\contentsline {subsection}{\numberline {4-4-1}مدل رگرسیون ریج }{64}{}%
+\contentsline {subsubsection}{آماده‌سازی داده‌ها}{64}{}%
+\contentsline {subsubsection}{مقیاس‌بندی ویژگی‌ها}{64}{}%
+\contentsline {subsubsection}{آموزش مدل اولیه}{65}{}%
+\contentsline {subsubsection}{تنظیم پارامترها با استفاده از اعتبارسنجی}{65}{}%
+\contentsline {subsubsection}{آموزش مدل نهایی و ارزیابی}{66}{}%
+\contentsline {subsection}{\numberline {4-4-2}مدل جنگل تصادفی}{66}{}%
+\contentsline {subsubsection}{ویژگی‌های مورد استفاده}{66}{}%
+\contentsline {paragraph}{مدل‌های بدون ویژگی گروه:}{66}{}%
+\contentsline {paragraph}{مدل‌های با ویژگی گروه:}{67}{}%
+\contentsline {subsubsection}{آماده‌سازی داده‌ها}{67}{}%
+\contentsline {subsubsection}{مقیاس‌بندی ویژگی‌ها}{67}{}%
+\contentsline {subsubsection}{آموزش مدل اولیه}{67}{}%
+\contentsline {subsubsection}{تنظیم پارامترها با استفاده از جست‌وجوی شبکه‌ای}{68}{}%
+\contentsline {subsubsection}{آموزش مدل نهایی و ارزیابی}{68}{}%
+\contentsline {subsubsection}{اعتبارسنجی متقاطع (با پارامترهای نهایی)}{68}{}%
+\contentsline {subsubsection}{مدل‌های مبتنی بر ویژگی گروه}{69}{}%
+\contentsline {paragraph}{مدل اولیه با گروه:}{70}{}%
+\contentsline {paragraph}{مدل بهینه‌شده با گروه:}{70}{}%
+\contentsline {paragraph}{اعتبارسنجی متقاطع مدل با گروه:}{70}{}%
+\contentsline {subsection}{\numberline {4-4-3}مدل رگرسیون بردار پشتیبان}{71}{}%
+\contentsline {subsubsection}{آماده‌سازی داده‌ها}{71}{}%
+\contentsline {subsubsection}{مقیاس‌بندی ویژگی‌ها}{72}{}%
+\contentsline {subsubsection}{آموزش مدل‌های با هسته‌های خطی، چندجمله‌ای و شعاعی}{72}{}%
+\contentsline {subsubsection}{مقاوم}{73}{}%
+\contentsline {paragraph}{آماده‌سازی داده‌ها:}{73}{}%
+\contentsline {paragraph}{مقیاس‌بندی ویژگی‌ها:}{73}{}%
+\contentsline {paragraph}{آموزش و ارزیابی مدل:}{74}{}%
+\contentsline {subsection}{\numberline {4-4-4}مدل افزایش گرادیان افراطی}{74}{}%
+\contentsline {subsubsection}{آماده‌سازی داده‌ها}{74}{}%
+\contentsline {subsubsection}{مقیاس‌بندی ویژگی‌ها}{75}{}%
+\contentsline {subsubsection}{آموزش مدل اولیه}{75}{}%
+\contentsline {subsubsection}{آموزش مدل بهینه‌شده}{75}{}%
+\contentsline {subsection}{\numberline {4-4-5}مدل تقویت دسته‌ای}{76}{}%
+\contentsline {subsubsection}{آماده‌سازی داده‌ها}{76}{}%
+\contentsline {subsubsection}{مقیاس‌بندی ویژگی‌ها}{77}{}%
+\contentsline {subsubsection}{آموزش مدل اولیه}{77}{}%
+\contentsline {subsubsection}{آموزش مدل بهینه‌شده}{77}{}%
+\contentsline {subsubsection}{مدل با پر کردن داده‌های ناقص و مقیاس‌دهی استاندارد}{78}{}%
+\contentsline {subsection}{\numberline {4-4-6}مدل شبکه عصبی چندلایه}{78}{}%
+\contentsline {subsubsection}{آماده‌سازی داده‌ها}{79}{}%
+\contentsline {subsubsection}{مقیاس‌بندی ویژگی‌ها}{79}{}%
+\contentsline {subsubsection}{آموزش مدل اولیه}{79}{}%
+\contentsline {subsection}{\numberline {4-4-7}مدل شبکه عصبی عمیق}{80}{}%
+\contentsline {subsubsection}{آماده‌سازی داده‌ها}{80}{}%
+\contentsline {subsubsection}{مقیاس‌بندی ویژگی‌ها}{80}{}%
+\contentsline {subsubsection}{آموزش مدل اولیه}{80}{}%
+\contentsline {section}{\numberline {4-5}جمع‌بندی و نتیجه‌گیری}{81}{}%
+\contentsline {chapter}{فصل~\numberline {پنجم\,: ارزیابی و نتایج}}{83}{}%
+\contentsline {section}{\numberline {5-1}مقدمه}{83}{}%
+\contentsline {section}{\numberline {5-2}تحلیل داده‌ها و نتایج مدل‌ها}{84}{}%
+\contentsline {section}{\numberline {5-3}مقایسه و انتخاب مدل بهینه}{85}{}%
+\contentsline {section}{\numberline {5-4}تحلیل تفصیلی مدل بهینه}{87}{}%
+\contentsline {subsection}{\numberline {5-4-1}عملکرد کمی مدل}{87}{}%
+\contentsline {subsection}{\numberline {5-4-2}تحلیل کیفی و ویژگی‌های مؤثر}{87}{}%
+\contentsline {subsection}{\numberline {5-4-3}محدودیت‌ها و نقاط قوت مدل}{88}{}%
+\contentsline {section}{\numberline {5-5}چالش‌ها و محدودیت‌ها}{88}{}%
+\contentsline {section}{\numberline {5-6}نتیجه‌گیری}{89}{}%
+\contentsline {section}{مراجع}{90}{}%

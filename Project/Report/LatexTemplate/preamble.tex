@@ -1,0 +1,96 @@
+%*************************************************
+% All the packages and definitions required for this
+% project are included here.
+%*************************************************
+% Iman Izadi, 1395
+% Dept. of Electrical and Computer Engineering, IUT
+%*************************************************
+
+
+\usepackage{amsthm,amssymb,amsmath}							% Writing math
+\usepackage{epsf,graphicx}									% Including graphics
+\usepackage[a4paper]{geometry}								% Fixing page layout and margins
+\usepackage{titlesec}										% Change chapter and section titles
+\usepackage{setspace}										% Change line spacing
+\usepackage[stable,bottom]{footmisc}						% Move footnotes to the bottom of page
+\usepackage[table,xcdraw]{xcolor}
+\usepackage{caption}
+\usepackage{adjustbox}
+\usepackage{zref-perpage}
+\zmakeperpage[1]{footnote}
+\usepackage{xepersian}										
+\settextfont{XB Zar}		
+\usepackage{siunitx}
+\usepackage{fontspec}
+\usepackage{float}
+\usepackage{booktabs}
+\usepackage{multirow}
+
+
+\definecolor{skyblue}{RGB}{135,206,250}
+\definecolor{rowgray}{HTML}{F5F7FA}
+\definecolor{headerblue}{HTML}{DCE8F2}
+\definecolor{navyblue}{RGB}{0, 0, 128} 
+\definecolor{customblue}{HTML}{34699A}
+
+
+
+% Default footnotes from left to right
+\setfootnoteLR
+
+% Use English numbers for English footnotes
+\makeatletter
+\def\@makeLTRfnmark{\hbox{\@textsuperscript{\latinfont\@thefnmark}}}
+\renewcommand\@makefntext[1]{%
+    \parindent 1em%
+    \noindent
+    \hb@xt@1.8em{\hss\if@RTL\@makefnmark\else\@makeLTRfnmark\fi}#1}
+\makeatother
+
+% Use dash instead of dot in section numbers
+\SepMark{-}
+
+% Configure siunitx for Persian numbers
+
+\sisetup{
+	output-decimal-marker = {/}, % Use Persian decimal separator
+	group-separator = {}, % No group separator for Persian style
+	input-open-uncertainty = (, % Handle uncertainties
+	input-close-uncertainty = ),
+	detect-all = true, % Detect numbers automatically
+	text-rm = \lr, % Ensure left-to-right for numbers
+		% --- تنظیمات حیاتی برای جلوگیری از تبدیل به درصد یا علمی ---
+	output-exponent-marker = \text{e},
+	scientific-notation = false,  % غیرفعال‌سازی کامل نمایش علمی
+	parse-numbers = true,
+	per-mode = symbol             % غیرفعال‌سازی نمایش درصدی
+}
+
+% Change fonts and margins of section and subsection titles
+% For chapters please see firstpages.tex
+\titlespacing*{\section}{0pt}{1cm}{0.2cm}
+\titleformat{\section}
+  {\fontsize{12}{6}\scshape\bfseries}{\thesection}{1em}{}
+
+\titlespacing*{\subsection}{0pt}{.8cm}{0cm}
+\titleformat{\subsection}
+  {\fontsize{11}{6}\scshape\bfseries}{\thesubsection}{1em}{}
+
+% Fix table of contents for chapters
+\makeatletter
+\def\@chapter[#1]#2{\ifnum \c@secnumdepth >\m@ne
+     \refstepcounter{chapter}%
+     \typeout{\@chapapp\space\thechapter.}%
+     \addcontentsline{toc}{chapter}%
+       	{\@chapapp~\protect\numberline{\tartibi{chapter}\,:\space #1}}
+  \else
+  	 \addcontentsline{toc}{chapter}{#1}%
+  \fi
+  \chaptermark{#1}%
+  \addtocontents{lof}{\protect\addvspace{10\p@}}%
+  \addtocontents{lot}{\protect\addvspace{10\p@}}%
+  \@makechapterhead{#2}%
+  \@afterheading}
+  \let\stdl@chapter\l@chapter
+ \renewcommand*{\l@chapter}[2]{\stdl@chapter{{#1}}{}}
+\makeatother

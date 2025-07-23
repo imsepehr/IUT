@@ -1,0 +1,40 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {2-1}{\ignorespaces مقایسه انواع روش‌های نزول گرادیان}}{12}{}%
+\contentsline {table}{\numberline {2-2}{\ignorespaces مقایسه انواع تابع‌های هسته در رگرسیون بردار پشتیبان}}{22}{}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4-1}{\ignorespaces شاخص دوره انتقال برای گروه‌های مختلف در ماه‌های مختلف}}{51}{}%
+\contentsline {table}{\numberline {4-2}{\ignorespaces تعداد ریزش داده‌ها به ازای متغیرهای کلیدی در هر ماه رکورد}}{56}{}%
+\contentsline {table}{\numberline {4-3}{\ignorespaces گاوهای تازه‌زا با شاخص دوره انتقال کمتر از \num {8}-}}{57}{}%
+\contentsline {table}{\numberline {4-4}{\ignorespaces تعداد داده‌های گمشده در ستون‌ها}}{63}{}%
+\contentsline {table}{\numberline {4-5}{\ignorespaces ویژگی‌های استفاده‌شده در مدل رگرسیون ریج}}{64}{}%
+\contentsline {table}{\numberline {4-6}{\ignorespaces نتایج ارزیابی مدل اولیه رگرسیون ریج بر روی مجموعه آزمون}}{65}{}%
+\contentsline {table}{\numberline {4-7}{\ignorespaces نتایج ارزیابی مدل نهایی رگرسیون ریج بر روی مجموعه آزمون}}{66}{}%
+\contentsline {table}{\numberline {4-8}{\ignorespaces ویژگی‌های استفاده‌شده در مدل جنگل تصادفی بدون متغیر گروه}}{67}{}%
+\contentsline {table}{\numberline {4-9}{\ignorespaces ویژگی‌های استفاده‌شده در مدل جنگل تصادفی با متغیر گروه}}{67}{}%
+\contentsline {table}{\numberline {4-10}{\ignorespaces نتایج ارزیابی مدل اولیه جنگل تصادفی}}{67}{}%
+\contentsline {table}{\numberline {4-11}{\ignorespaces نتایج ارزیابی مدل نهایی جنگل تصادفی}}{68}{}%
+\contentsline {table}{\numberline {4-12}{\ignorespaces ارزیابی نهایی مدل جنگل تصادفی با اعتبارسنجی متقاطع}}{69}{}%
+\contentsline {table}{\numberline {4-13}{\ignorespaces نتایج مدل اولیه جنگل تصادفی با گروه}}{70}{}%
+\contentsline {table}{\numberline {4-14}{\ignorespaces نتایج مدل نهایی جنگل تصادفی با گروه}}{70}{}%
+\contentsline {table}{\numberline {4-15}{\ignorespaces مدل نهایی جنگل تصادفی با گروه و اعتبارسنجی متقاطع}}{70}{}%
+\contentsline {table}{\numberline {4-16}{\ignorespaces ویژگی‌های استفاده‌شده در مدل رگرسیون بردار پشتیبان}}{72}{}%
+\contentsline {table}{\numberline {4-17}{\ignorespaces نتایج ارزیابی مدل اولیه رگرسیون بردار پشتیبان (هسته خطی) بر روی مجموعه آزمون}}{72}{}%
+\contentsline {table}{\numberline {4-18}{\ignorespaces نتایج ارزیابی مدل اولیه رگرسیون بردار پشتیبان (هسته چندجمله‌ای) بر روی مجموعه آزمون}}{73}{}%
+\contentsline {table}{\numberline {4-19}{\ignorespaces نتایج ارزیابی مدل اولیه رگرسیون بردار پشتیبان (هسته شعاعی) بر روی مجموعه آزمون}}{73}{}%
+\contentsline {table}{\numberline {4-20}{\ignorespaces نتایج ارزیابی مدل رگرسیون بردار پشتیبان (با هسته شعاعی و مقیاس‌بندی مقاوم) بر روی مجموعه آزمون}}{74}{}%
+\contentsline {table}{\numberline {4-21}{\ignorespaces ویژگی‌های استفاده‌شده در مدل افزایش گرادیان افراطی}}{74}{}%
+\contentsline {table}{\numberline {4-22}{\ignorespaces نتایج ارزیابی مدل اولیه افزایش گرادیان افراطی بر روی مجموعه آزمون}}{75}{}%
+\contentsline {table}{\numberline {4-23}{\ignorespaces نتایج ارزیابی مدل بهینه‌شده افزایش گرادیان افراطی بر روی مجموعه آزمون}}{76}{}%
+\contentsline {table}{\numberline {4-24}{\ignorespaces ویژگی‌های استفاده‌شده در مدل تقویت دسته‌ای}}{76}{}%
+\contentsline {table}{\numberline {4-25}{\ignorespaces نتایج ارزیابی مدل اولیه تقویت دسته‌ای بر روی مجموعه آزمون}}{77}{}%
+\contentsline {table}{\numberline {4-26}{\ignorespaces نتایج ارزیابی مدل بهینه‌شده تقویت دسته‌ای بر روی مجموعه آزمون}}{78}{}%
+\contentsline {table}{\numberline {4-27}{\ignorespaces نتایج ارزیابی مدل تقویت دسته‌ای (با پر کردن داده‌های ناقص و مقیاس‌دهی استاندارد) بر روی مجموعه آزمون}}{78}{}%
+\contentsline {table}{\numberline {4-28}{\ignorespaces ویژگی‌های استفاده‌شده در مدل شبکه عصبی چندلایه}}{79}{}%
+\contentsline {table}{\numberline {4-29}{\ignorespaces نتایج ارزیابی مدل اولیه شبکه عصبی چندلایه بر روی مجموعه آزمون}}{79}{}%
+\contentsline {table}{\numberline {4-30}{\ignorespaces ویژگی‌های استفاده‌شده در مدل شبکه عصبی عمیق}}{80}{}%
+\contentsline {table}{\numberline {4-31}{\ignorespaces نتایج ارزیابی مدل اولیه شبکه عصبی عمیق بر روی مجموعه آزمون}}{81}{}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {5-1}{\ignorespaces مقایسه عملکرد مدل‌ها بر اساس معیارهای ارزیابی}}{85}{}%
+\contentsline {table}{\numberline {5-2}{\ignorespaces درصد بهبود مدل بهینه (تقویت دسته‌ای اولیه) نسبت به سایر مدل‌ها}}{86}{}%
